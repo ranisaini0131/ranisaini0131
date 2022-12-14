@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ Rani😊
+- 👋 Hi, I’m Rani😊
 - 🌱 I have completed my B.Tech from RGPV Bhopal,M.P.(2016-2020)
 - 👀 I’m currently learning backend development using node.js | Rest Apis
 - 🤪 improving my knowlege by building projects using HTML | CSS | Bootstrape | JavaScript | Node.js | Express.js | MongoDB 
