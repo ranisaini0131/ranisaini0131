@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/sainirani1797" target="blank"><img src="https://img.shields.io/twitter/follow/sainirani1797?logo=twitter&style=for-the-badge" alt="sainirani1797" /></a> </p>
 
-- 🔭 I’m currently working on **Backend Projects, REST API,MVC Patterns,JavaScript**
+- 🔭 I’m currently working on **React Integration with APIs, Redux ToolKit Query, Improving Problem solving skills**
 
-- 🌱 I’m currently learning **Node.js,Express.js,Mongodb,Rest Apis,MVC Patterns,Javascript,CSS,CSS3,HTML,HTML5,BOOTSTRAP**
-
-- 🤝 I’m looking for help with **Enhancing my Backend knowledge**
+- 🌱 I’m currently learning **React Routing Syatem, Databases, Tailwind **
 
 - 👨‍💻 All of my projects are available at [http://www.linkedin.com/in/rani-saini-1373011a3](http://www.linkedin.com/in/rani-saini-1373011a3)
 
