@@ -14,7 +14,7 @@ A Backend Developer passionate about creating interactive applications and exper
 - 📫 How to reach me **sainirani1797@gmail.com**
 
 ## 🛠 Skills
-Nodejs, Expressjs, Mongodb, MySql, NPM, Javascript, TypeScript, C/C++, HTML, CSS
+Nodejs, Expressjs, Reactjs, Redux Toolkit, Mongodb, NPM, Javascript,  HTML, CSS, Postman
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranisaini0131&show_icons=true&locale=en&layout=compact" alt="ranisaini0131" /></p>
