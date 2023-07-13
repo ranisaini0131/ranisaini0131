@@ -16,8 +16,9 @@ A Backend Developer passionate about creating interactive applications and exper
 ## 🛠 Skills
 Nodejs, Expressjs, Reactjs, Redux Toolkit, Mongodb, NPM, Javascript,  HTML, CSS, Postman
 
+## <h3 align="left">GitHub Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranisaini0131&show_icons=true&locale=en&layout=compact" alt="ranisaini0131" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranisaini0131&show_icons=true&locale=en" alt="ranisaini0131" /></p>
-
+<a href="">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=kumarmeet&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<a />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarmeet&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
