@@ -14,7 +14,7 @@ A Backend Developer passionate about creating interactive applications and exper
 - 📫 How to reach me **sainirani1797@gmail.com**
 
 ## 🛠 Skills
-Nodejs, Expressjs, Reactjs, Redux Toolkit, Mongodb, NPM, Javascript,  HTML, CSS, Postman
+ Javascript, Nodejs, Expressjs, Reactjs, Redux Toolkit,Redux Toolkit Query, Mongodb, MongoDb Compass, MongoDB Atlas, NPM, HTML, CSS, Postman
 
 ## <h3 align="left">GitHub Stats</h3>
 
